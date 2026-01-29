@@ -1197,10 +1197,10 @@
         <th>black</th>
     </tr>
     <tr>
-        <th>Contiple</th>
-        <td><img src="/files/services/collaboration/color/ic-collaboration-dooray.png"></td>
+        <th>Dooray!</th>
+        <td><img src="/files/services/collaboration/color/ic-dooray-project-box.png"></td>
         <td><img src="/files/services/collaboration/black/ic-collaboration-dooray.png"></td>
-        <td><img src="/files/services/collaboration/color/ic-collaboration-dooray.svg"></td>
+        <td><img src="/files/services/collaboration/color/ic-dooray-project-box.svg"></td>
         <td><img src="/files/services/collaboration/black/ic-collaboration-dooray.svg"></td>
     </tr>
 </table>
