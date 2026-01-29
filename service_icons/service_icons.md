@@ -477,10 +477,10 @@
     </tr>
     <tr>
         <th>NHN Hybrid Cloud</th>
-        <td><img src="/files/services/hybrid_private_cloud/color/ic-hybrid_n_private_cloud-nhn_private_cloud.png"></td>
-        <td><img src="/files/services/hybrid_private_cloud/black/ic-hybrid_n_private_cloud-nhn_private_cloud.png"></td>
-        <td><img src="/files/services/hybrid_private_cloud/color/ic-hybrid_n_private_cloud-nhn_private_cloud.svg"></td>
-        <td><img src="/files/services/hybrid_private_cloud/black/ic-hybrid_n_private_cloud-nhn_private_cloud.svg"></td>
+        <td><img src="/files/services/hybrid_private_cloud/color/ic-hybrid_n_private_cloud-nhn_hybrid_cloud.png"></td>
+        <td><img src="/files/services/hybrid_private_cloud/black/ic-hybrid_n_private_cloud-nhn_hybrid_cloud.png"></td>
+        <td><img src="/files/services/hybrid_private_cloud/color/ic-hybrid_n_private_cloud-nhn_hybrid_cloud.svg"></td>
+        <td><img src="/files/services/hybrid_private_cloud/black/ic-hybrid_n_private_cloud-nhn_hybrid_cloud.svg"></td>
     </tr>
     <tr>
         <th>NHN Cloud Private Station</th>
