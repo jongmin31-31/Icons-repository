@@ -495,7 +495,10 @@
         <td><img src="/files/services/hybrid_private_cloud/black/ic-hybrid_n_private_cloud-nhn_cloud_private_deck.png"></td>
         <td><img src="/files/services/hybrid_private_cloud/color/ic-hybrid_n_private_cloud-nhn_cloud_private_deck.svg"></td>
         <td><img src="/files/services/hybrid_private_cloud/black/ic-hybrid_n_private_cloud-nhn_cloud_private_deck.svg"></td>
-    </tr>    
+    </tr>
+
+    
+        
 </table>
 
 ### Game
@@ -1124,134 +1127,6 @@
 </table>
 
 
-### Dooray!
-
-<table>
-    <tr>
-        <th rowspan="2">Service</th>
-        <th colspan="2">PNG</th>
-        <th colspan="2">SVG</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <th>black</th>
-        <th>color</th>
-        <th>black</th>
-    </tr>
-    <tr>
-        <th>Project</th>
-        <td><img src="/files/services/dooray/color/ic-dooray-project.png"></td>
-        <td><img src="/files/services/dooray/black/ic-dooray-project.png"></td>
-        <td><img src="/files/services/dooray/color/ic-dooray-project.svg"></td>
-        <td><img src="/files/services/dooray/black/ic-dooray-project.svg"></td>
-    </tr>
-    <tr>
-        <th>Messenger</th>
-        <td><img src="/files/services/dooray/color/ic-dooray-messenger.png"></td>
-        <td><img src="/files/services/dooray/black/ic-dooray-messenger.png"></td>
-        <td><img src="/files/services/dooray/color/ic-dooray-messenger.svg"></td>
-        <td><img src="/files/services/dooray/black/ic-dooray-messenger.svg"></td>
-    </tr>
-    <tr>
-        <th>Mail</th>
-        <td><img src="/files/services/dooray/color/ic-dooray-mail.png"></td>
-        <td><img src="/files/services/dooray/black/ic-dooray-mail.png"></td>
-        <td><img src="/files/services/dooray/color/ic-dooray-mail.svg"></td>
-        <td><img src="/files/services/dooray/black/ic-dooray-mail.svg"></td>
-    </tr>
-    <tr>
-        <th>Calender</th>
-        <td><img src="/files/services/dooray/color/ic-dooray-calendar.png"></td>
-        <td><img src="/files/services/dooray/black/ic-dooray-calendar.png"></td>
-        <td><img src="/files/services/dooray/color/ic-dooray-calendar.svg"></td>
-        <td><img src="/files/services/dooray/black/ic-dooray-calendar.svg"></td>
-    </tr>
-    <tr>
-        <th>Drive</th>
-        <td><img src="/files/services/dooray/color/ic-dooray-Drive.png"></td>
-        <td><img src="/files/services/dooray/black/ic-dooray-Drive.png"></td>
-        <td><img src="/files/services/dooray/color/ic-dooray-Drive.svg"></td>
-        <td><img src="/files/services/dooray/black/ic-dooray-Drive.svg"></td>
-    </tr>
-    <tr>
-        <th>Contacts</th>
-        <td><img src="/files/services/dooray/color/ic-dooray-Contacts.png"></td>
-        <td><img src="/files/services/dooray/black/ic-dooray-Contacts.png"></td>
-        <td><img src="/files/services/dooray/color/ic-dooray-Contacts.svg"></td>
-        <td><img src="/files/services/dooray/black/ic-dooray-Contacts.svg"></td>
-    </tr>
-    <tr>
-        <th>Wiki</th>
-        <td><img src="/files/services/dooray/color/ic-dooray-Wiki.png"></td>
-        <td><img src="/files/services/dooray/black/ic-dooray-Wiki.png"></td>
-        <td><img src="/files/services/dooray/color/ic-dooray-Wiki.svg"></td>
-        <td><img src="/files/services/dooray/black/ic-dooray-Wiki.svg"></td>
-    </tr>
-</table>
-
-
-### Dooray! | ERP
-
-<table>
-    <tr>
-        <th rowspan="2">Service</th>
-        <th colspan="2">PNG</th>
-        <th colspan="2">SVG</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <th>black</th>
-        <th>color</th>
-        <th>black</th>
-    </tr>
-    <tr>
-        <th>Human Resources</th>
-        <td><img src="/files/services/dooray_erp/color/ic-dooray_erp-human_resources.png"></td>
-        <td><img src="/files/services/dooray_erp/black/ic-dooray_erp-human_resources.png"></td>
-        <td><img src="/files/services/dooray_erp/color/ic-dooray_erp-human_resources.svg"></td>
-        <td><img src="/files/services/dooray_erp/black/ic-dooray_erp-human_resources.svg"></td>
-    </tr>
-    <tr>
-        <th>Certificate Manager</th>
-        <td><img src="/files/services/dooray_erp/color/ic-dooray_erp-finance.png"></td>
-        <td><img src="/files/services/dooray_erp/black/ic-dooray_erp-finance.png"></td>
-        <td><img src="/files/services/dooray_erp/color/ic-dooray_erp-finance.svg"></td>
-        <td><img src="/files/services/dooray_erp/black/ic-dooray_erp-finance.svg"></td>
-    </tr>
-</table>
-
-
-### Dooray! | Groupware
-
-<table>
-    <tr>
-        <th rowspan="2">Service</th>
-        <th colspan="2">PNG</th>
-        <th colspan="2">SVG</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <th>black</th>
-        <th>color</th>
-        <th>black</th>
-    </tr>
-    <tr>
-        <th>Communication Board</th>
-        <td><img src="/files/services/dooray_groupware/color/ic-dooray_groupware-communication_board.png"></td>
-        <td><img src="/files/services/dooray_groupware/black/ic-dooray_groupware-communication_board.png"></td>
-        <td><img src="/files/services/dooray_groupware/color/ic-dooray_groupware-communication_board.svg"></td>
-        <td><img src="/files/services/dooray_groupware/black/ic-dooray_groupware-communication_board.svg"></td>
-    </tr>
-    <tr>
-        <th>Workflow</th>
-        <td><img src="/files/services/dooray_groupware/color/ic-dooray_groupware-workflow.png"></td>
-        <td><img src="/files/services/dooray_groupware/black/ic-dooray_groupware-workflow.png"></td>
-        <td><img src="/files/services/dooray_groupware/color/ic-dooray_groupware-workflow.svg"></td>
-        <td><img src="/files/services/dooray_groupware/black/ic-dooray_groupware-workflow.svg"></td>
-    </tr>
-</table>
-
-
 ### Contact Center
 
 <table>
@@ -1275,29 +1150,6 @@
     </tr>
 </table>
 
-
-### IDC
-
-<table>
-    <tr>
-        <th rowspan="2">Service</th>
-        <th colspan="2">PNG</th>
-        <th colspan="2">SVG</th>
-    </tr>
-    <tr>
-        <th>color</th>
-        <th>black</th>
-        <th>color</th>
-        <th>black</th>
-    </tr>
-    <tr>
-        <th>IDC</th>
-        <td><img src="/files/services/idc/color/ic-idc-ncc.png"></td>
-        <td><img src="/files/services/idc/black/ic-idc-ncc.png"></td>
-        <td><img src="/files/services/idc/color/ic-idc-ncc.svg"></td>
-        <td><img src="/files/services/idc/black/ic-idc-ncc.svg"></td>
-    </tr>
-</table>
 
 ### Governance & Audit
 
@@ -1329,3 +1181,26 @@
     </tr>
 </table>
 
+
+### Collaboration
+
+<table>
+    <tr>
+        <th rowspan="2">Service</th>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th>color</th>
+        <th>black</th>
+        <th>color</th>
+        <th>black</th>
+    </tr>
+    <tr>
+        <th>Contiple</th>
+        <td><img src="/files/services/collaboration/color/ic-collaboration-dooray.png"></td>
+        <td><img src="/files/services/collaboration/black/ic-collaboration-dooray.png"></td>
+        <td><img src="/files/services/collaboration/color/ic-collaboration-dooray.svg"></td>
+        <td><img src="/files/services/collaboration/black/ic-collaboration-dooray.svg"></td>
+    </tr>
+</table>
