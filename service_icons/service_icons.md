@@ -805,13 +805,6 @@
         <td><img src="/files/services/ai_service/black/ic-ai_service-face_recognition.svg"></td>
     </tr>
     <tr>
-        <th>AI Fashion</th>
-        <td><img src="/files/services/ai_service/color/ic-ai_service-fashion.png"></td>
-        <td><img src="/files/services/ai_service/black/ic-ai_service-fashion.png"></td>
-        <td><img src="/files/services/ai_service/color/ic-ai_service-fashion.svg"></td>
-        <td><img src="/files/services/ai_service/black/ic-ai_service-fashion.svg"></td>
-    </tr>
-    <tr>
         <th>OCR</th>
         <td><img src="/files/services/ai_service/color/ic-ai_service-ocr.png"></td>
         <td><img src="/files/services/ai_service/black/ic-ai_service-ocr.png"></td>
