@@ -1017,6 +1017,13 @@
         <td><img src="/files/services/data_analytics/color/ic-data_n_analytics-kafka_instance.svg"></td>
         <td><img src="/files/services/data_analytics/black/ic-data_n_analytics-kafka_instance.svg"></td>
     </tr>
+    <tr>
+        <th>EasyQueue</th>
+        <td><img src="/files/services/data_analytics/color/ic-data_n_analytics-easyqueue.png"></td>
+        <td><img src="/files/services/data_analytics/black/ic-data_n_analytics-easyqueue.png"></td>
+        <td><img src="/files/services/data_analytics/color/ic-data_n_analytics-easyqueue.svg"></td>
+        <td><img src="/files/services/data_analytics/black/ic-data_n_analytics-easyqueue.svg"></td>
+    </tr>
 </table>
 
 
